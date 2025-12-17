@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohammad Najjar</h1>
-<h3 align="center">A Junior Full Stack developer 🚀 from Syria</h3>
-
+<h3 align="center">A Full Stack Developer | Technical Project Manager | PHP, Laravel, React, WordPress, Shopify | SaaS & Mobile Apps 🚀 from Syria</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammadnajjar&label=Profile%20views&color=0e75b6&style=flat" alt="mohammadnajjar" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohammadnajjar" alt="mohammadnajjar" /></a> </p>
-
 
 # 💫 About Me:
 Full Stack Developer | Technical Project Manager | PHP, Laravel, React, WordPress, Shopify | SaaS & Mobile Apps<br><br>Results-driven Full Stack Developer & Project Manager with 6+ years of experience delivering scalable web and mobile applications. Skilled in leading cross-functional teams, managing Agile projects, and building high-performance software solutions across Laravel, React.js, Flutter, WordPress, and Shopify.<br><br>💡 Key Highlights<br><br>Architected & launched 10+ Android applications and 40+ production websites (eCommerce, SaaS, real estate, and enterprise solutions).<br><br>Currently manage & mentor an 11-person engineering team, achieving a 35% reduction in post-release defects and 28% faster sprint velocity.<br><br>Extensive experience in Agile/Scrum methodologies, OKR-driven development, and CI/CD pipelines.<br><br>Skilled in end-to-end project lifecycle: requirements gathering, system architecture, backend APIs, frontend UI/UX, QA, and deployment.<br><br>🛠 Core Skills & Tools<br><br>Frontend: HTML5, CSS3, JavaScript, React.js, Vue.js, Bootstrap, Tailwind CSS<br><br>Backend: PHP, Laravel, CodeIgniter, Node.js, MySQL, REST APIs<br><br>CMS & eCommerce: WordPress, Shopify<br><br>Project Management: Agile, Scrum, Jira, Notion, Trello<br><br>Other: Git, Postman, API Testing, OOP, Data Structures & Algorithms<br><br>🌍 Passionate about mentorship, problem-solving, and digital transformation, with proven experience in coaching competitive programming teams (ICPC/SCPC) and volunteering as a student leader.<br><br>📬 Open to collaboration, consulting, and exciting opportunities. Feel free to reach me at mohammadnajjamgl@gmail.com
